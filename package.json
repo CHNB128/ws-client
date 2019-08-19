@@ -1,5 +1,9 @@
 {
   "name": "ws-client",
+  "repository": "git@github.com:CHNB128/ws-client.git",
+  "author": "Daren <drake.aren@protonmail.com>",
+  "private": false,
+  "description": "ws client with debug and auto reconect",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
